@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.landing-bg {
+  background: url(../assets/ldbg.png) no-repeat fixed;
+  -webkit-background-size: cover;
+  background-size: contain;
+  height: 100vh;
+  width: auto;
+}
+
+.s-button {
+  margin-top: 34%;
+  margin-left: 13%;
+  height: 12%;
+  width: 12vw;
+  border-radius: 45px;
+  font-size: 30px;
+  background: #50729c;
+  color: white;
+}
